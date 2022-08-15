@@ -18,3 +18,15 @@
   justify-content: center;
   text-align: center;
  }
+
+ .input {
+  background-color: lightcoral;
+  justify-content: center;
+  text-align: center;
+ }
+
+ .answer {
+  background-color: lightcoral;
+  justify-content: center;
+  text-align: center;
+ }
