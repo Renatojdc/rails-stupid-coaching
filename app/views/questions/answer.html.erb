@@ -1,4 +1,4 @@
 <p><%= @answer %></p>
-<a class="btn btn-primary" <%= link_to "Ask again", ask_path %>>
+<%= link_to "Ask again", ask_path, class: "btn btn-primary" %>
 <br>
-<a class="btn btn-info" <%= link_to "Go back to Home page", root_path %>>
+<%= link_to "Go back to Home page", root_path, class: "btn btn-info" %>
